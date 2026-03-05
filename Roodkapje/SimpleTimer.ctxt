@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SimpleTimer
+comment0.text=\n\ Write\ a\ description\ of\ class\ SimpleTimer\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=SimpleTimer()
+comment1.text=\n\ Constructor\ voor\ SimpleTimer\n\ Initialiseert\ de\ timer\ en\ zet\ de\ starttijd\ vast.\n
+comment2.params=
+comment2.target=int\ millisElapsed()
+comment2.text=\n\ Geeft\ het\ aantal\ milliseconden\ terug\ dat\ verstreken\ is\ sinds\ de\ laatste\ markering.\n\ \n\ @return\ Verstreken\ tijd\ in\ milliseconden\ sinds\ laatste\ mark\n
+comment3.params=
+comment3.target=int\ secondsElapsed()
+comment3.text=\n\ Geeft\ het\ aantal\ seconden\ terug\ dat\ verstreken\ is\ sinds\ de\ laatste\ markering.\n\ \n\ @return\ Verstreken\ tijd\ in\ seconden\ sinds\ laatste\ mark\n
+comment4.params=
+comment4.target=void\ mark()
+comment4.text=\n\ Zet\ de\ markering\ op\ het\ huidige\ moment,\ om\ de\ timer\ opnieuw\ te\ starten.\n
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=House
+comment0.text=\n\ Write\ a\ description\ of\ class\ House\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ House\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ checkHouse()
+comment2.text=\n\ Als\ de\ speler\ het\ huis\ raakt,\ stopt\ het\ spel\ en\ toont\ een\ overwinningsbericht\ met\ de\ verstreken\ tijd.\n
+numComments=3

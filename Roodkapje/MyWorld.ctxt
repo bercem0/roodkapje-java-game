@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\n\ \n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\n
+comment3.params=name\ count
+comment3.target=void\ addObjects(java.lang.String,\ int)
+comment3.text=\n\ Voegt\ een\ bepaald\ aantal\ objecten\ toe\ van\ het\ type\ 'name'\ (bijv.\ flowers,\ apples,\ houses).\n\n\ @param\ name\ Naam\ van\ het\ objecttype\ als\ String\n\ @param\ count\ Aantal\ objecten\ dat\ toegevoegd\ moet\ worden\n
+comment4.params=i
+comment4.target=void\ updateScore(int)
+comment4.text=\n\ Update\ de\ score\ met\ een\ bepaalde\ waarde\ en\ beheer\ huizen\ op\ basis\ van\ de\ score.\n\n\ @param\ i\ Het\ aantal\ punten\ om\ de\ score\ mee\ te\ verhogen\ of\ verlagen\n
+comment5.params=
+comment5.target=void\ act()
+numComments=6
